@@ -6,6 +6,8 @@ This uses the TTS api to generate JSON data into audio files with spoken lines
 - Python 3.10+ (TTS requires 3.8+/<3.12 and torch requires 3.10)
 - pyenv 2.5.7+
 
+  (Note: I did **not** get this to work on Windows quite yet)
+
 ## Installation
 - Install pyenv with
 ```
