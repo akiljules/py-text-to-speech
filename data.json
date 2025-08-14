@@ -1,0 +1,324 @@
+[
+  {
+    "id": "challenge_global_01",
+    "text": "Can you guess this rule?",
+    "text_es": "¿Puedes adivinar esta regla?",
+    "audio": "challenge_global_01",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "correct_single_a",
+    "text": "Nice! How about this one?",
+    "text_es": "¡Genial! ¿Qué te parece este?",
+    "audio": "correct_single_a",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "correct_single_b",
+    "text": "Got it! Try this one.",
+    "text_es": "¡Lo tengo! Prueba este.",
+    "audio": "correct_single_b",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "correct_single_c",
+    "text": "That’s right! Let’s check another one.",
+    "text_es": "¡Así es! Veamos otro.",
+    "audio": "correct_single_c",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "correct_all_a",
+    "text": "Way to go!",
+    "text_es": "¡Bien hecho!",
+    "audio": "correct_all_a",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "correct_all_b",
+    "text": "Wow, you’re good!",
+    "text_es": "¡Guau, eres bueno!",
+    "audio": "correct_all_b",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "correct_all_c",
+    "text": "Amazing!",
+    "text_es": "¡Asombroso!",
+    "audio": "correct_all_c",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "prize_a",
+    "text": "Congratulations - you’ve won a prize! Keep playing to win even bigger prizes!",
+    "text_es": "¡Felicidades! ¡Ganaste un premio! ¡Sigue jugando para ganar premios aún mayores!",
+    "audio": "prize_a",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "prize_b",
+    "text": "Let’s seeee your prize! Onto the next rule!",
+    "text_es": "¡A ver tu premio! ¡A por la siguiente regla!",
+    "audio": "prize_b",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "prize_c",
+    "text": "Look what you’ve won - let’s keep playing!",
+    "text_es": "Mira lo que has ganado: ¡sigamos jugando!",
+    "audio": "prize_c",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "reminder_L1",
+    "text": "Think you know the rule? Tap here!",
+    "text_es": "¿Crees que conoces la regla? ¡Pulsa aquí!",
+    "audio": "reminder_L1",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "reminder_L2",
+    "text": "Ready to guess? Tap here!",
+    "text_es": "¿Listo para adivinar? ¡Pulsa aquí!",
+    "audio": "reminder_L2",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "reminder_L3_a",
+    "text": "Do you see a pattern? Tap me to guess the rule.",
+    "text_es": "¿Ves un patrón? Tócame para adivinar la regla.",
+    "audio": "temp_silent",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "reminder_L3_b",
+    "text": "Tap me to guess the rule!",
+    "text_es": "¡Tócame para adivinar la regla!",
+    "audio": "reminder_L3_b",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "reminder_L3_c",
+    "text": "Tap me if you think you know the rule.",
+    "text_es": "Hazme un toque si crees que conoces la regla.",
+    "audio": "reminder_L3_c",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "reminder_L3_d",
+    "text": "Guess the rule and win a prize! Tap me to move on.",
+    "text_es": "¡Adivina la regla y gana un premio! Tócame para continuar.",
+    "audio": "temp_silent",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "reminder_L3_e",
+    "text": "If you’re ready to answer, tap me!",
+    "text_es": "Si estás listo para responder, ¡tócame!",
+    "audio": "reminder_L3_e",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "incorrect_a",
+    "text": "Remember, it's the same math rule everytime you enter a number.",
+    "text_es": "Recuerde, es la misma regla matemática cada vez que ingresa un número.",
+    "audio": "incorrect_a",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "incorrect_b",
+    "text": "Try counting on your fingers to check the rule.",
+    "text_es": "Intenta contar con los dedos para comprobar la regla.",
+    "audio": "incorrect_b",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "incorrect_2",
+    "text": "That was a good guess - Try again using numbers like 0 or 10",
+    "text_es": "Esa fue una buena suposición. Inténtalo nuevamente usando números como 0 o 10.",
+    "audio": "incorrect_2",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "incorrect_3",
+    "text": "The rule the machine was using was",
+    "text_es": "La regla que estaba usando la máquina era",
+    "audio": "incorrect_3",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "end_reward",
+    "text": "Congratulations!! You’re today’s big winner! You’ll be going home with…",
+    "text_es": "¡Felicidades! ¡Eres el gran ganador de hoy! Te irás a casa con… ",
+    "audio": "end_reward",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "end_loose_a",
+    "text": "Let's try another one!",
+    "text_es": "",
+    "audio": "end_loose_a",
+    "audio_es": ""
+  },
+  {
+    "id": "end_loose_b",
+    "text": "Thanks for playing Guess My Rule!",
+    "text_es": "",
+    "audio": "end_loose_b",
+    "audio_es": ""
+  },
+  {
+    "id": "begin_quiz_a",
+    "text": "Put your rule to the test!",
+    "text_es": "¡Pon a prueba tu regla!",
+    "audio": "begin_quiz_a",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "begin_quiz_b",
+    "text": "Let’s see if you’ve got it.",
+    "text_es": "Veamos si lo tienes.",
+    "audio": "begin_quiz_b",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "begin_quiz_c",
+    "text": "Try your rule on these numbers.",
+    "text_es": "Pruebe su regla con estos números.",
+    "audio": "begin_quiz_c",
+    "audio_es": "temp_silent"
+  },
+  {
+    "id": "x+n_a",
+    "text": "Add !",
+    "text_es": "",
+    "audio": "x_plus_n_a",
+    "audio_es": ""
+  },
+  {
+    "id": "x+n_b",
+    "text": "Count on  more!",
+    "text_es": "",
+    "audio": "x_plus_n_b",
+    "audio_es": ""
+  },
+  {
+    "id": "x-n_a",
+    "text": "Subtract !",
+    "text_es": "",
+    "audio": "x_minus_n_a",
+    "audio_es": ""
+  },
+  {
+    "id": "x-n_b",
+    "text": "Count  back!",
+    "text_es": "",
+    "audio": "x_minus_n_b",
+    "audio_es": ""
+  },
+  {
+    "id": "x*n_2_a",
+    "text": "Add the number to itself!",
+    "text_es": "",
+    "audio": "x_times_n_a",
+    "audio_es": ""
+  },
+  {
+    "id": "x*n_2_b",
+    "text": "Double the number!",
+    "text_es": "",
+    "audio": "x_times_n_b",
+    "audio_es": ""
+  },
+  {
+    "id": "x*n+m_2_a",
+    "text": "Double the number, plus 1!",
+    "text_es": "",
+    "audio": "x_times_n_plus_m_a",
+    "audio_es": ""
+  },
+  {
+    "id": "x*n+m_2_b",
+    "text": "Double the number, plus 2!",
+    "text_es": "",
+    "audio": "x_times_n_plus_m_b",
+    "audio_es": ""
+  },
+  {
+    "id": "x*n-m_2_a",
+    "text": "Double the number, minus 1!",
+    "text_es": "",
+    "audio": "x_times_n_minus_m_a",
+    "audio_es": ""
+  },
+  {
+    "id": "x*n-m_2_b",
+    "text": "Double the number, minus 2!",
+    "text_es": "",
+    "audio": "x_times_n_minus_m_b",
+    "audio_es": ""
+  },
+  {
+    "id": "n-x_a",
+    "text": "The two numbers always add to !",
+    "text_es": "",
+    "audio": "n_minus_x_a",
+    "audio_es": ""
+  },
+  {
+    "id": "n-x_b",
+    "text": "Look at that pattern!  and  is ,   and  is , and   and  is !",
+    "text_es": "",
+    "audio": "n_minus_x_b",
+    "audio_es": ""
+  },
+  {
+    "id": "x+n_c",
+    "text": " more!",
+    "text_es": "",
+    "audio": "x_plus_n_c",
+    "audio_es": ""
+  },
+  {
+    "id": "x-n_c",
+    "text": "Take away !",
+    "text_es": "",
+    "audio": "x_minus_n_c",
+    "audio_es": ""
+  },
+  {
+    "id": "x*n_a",
+    "text": "Multiply by !",
+    "text_es": "",
+    "audio": "x_times_n_a",
+    "audio_es": ""
+  },
+  {
+    "id": "x*n_b",
+    "text": "Add the number  times!",
+    "text_es": "",
+    "audio": "x_times_n_b",
+    "audio_es": ""
+  },
+  {
+    "id": "x/n_a",
+    "text": "Divide by !",
+    "text_es": "",
+    "audio": "x_divided_by_n_a",
+    "audio_es": ""
+  },
+  {
+    "id": "x*n+m_a",
+    "text": "Multiply by , then add !",
+    "text_es": "",
+    "audio": "x_times_n_plus_m_a",
+    "audio_es": ""
+  },
+  {
+    "id": "x*n-m_a",
+    "text": "Multiply by , then subtract !",
+    "text_es": "",
+    "audio": "x_times_n_minus_m_a",
+    "audio_es": ""
+  }
+]
